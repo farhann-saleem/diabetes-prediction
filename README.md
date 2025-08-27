@@ -93,8 +93,6 @@ python app.py
 * Deploy on **Heroku / Render / AWS**.
 * Build a mobile-friendly interface.
 
----
-
 ## 📌 Conclusion
 
 This project demonstrates how **machine learning** can be applied in the medical domain to assist with early diabetes prediction. With proper deployment, it can be used as a **decision-support tool** for healthcare professionals and patients.

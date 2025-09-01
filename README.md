@@ -23,9 +23,7 @@ This project is a **machine learning model** that predicts whether a person has 
    * Checked correlations among features.
 
 2. **Model Training**
-
    * Algorithms tested:
-
      * Logistic Regression ✅ (Best Accuracy \~76%)
      * Support Vector Classifier (SVC)
      * K-Nearest Neighbors (KNN)

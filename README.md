@@ -2,8 +2,6 @@
 
 This project is a **machine learning model** that predicts whether a person has diabetes based on health-related features such as glucose levels, blood pressure, BMI, age, etc. It explores multiple algorithms and compares their performance, with **Logistic Regression** performing best overall.
 
----
-
 ## 📂 Project Structure
 
 * `diabetes.csv` → Dataset containing patient health records.
